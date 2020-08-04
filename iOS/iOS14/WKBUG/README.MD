@@ -1,3 +1,6 @@
+# Fixed
+- iOS14-beta4
+
 # Describe
 IOS 14 load local file by WKWebView failed on ***real device***, when file path contains ***Chinese characters***.
 
