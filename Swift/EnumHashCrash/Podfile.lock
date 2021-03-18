@@ -1,0 +1,16 @@
+PODS:
+  - FooA (1.0.0)
+
+DEPENDENCIES:
+  - FooA (from `./FooA`)
+
+EXTERNAL SOURCES:
+  FooA:
+    :path: "./FooA"
+
+SPEC CHECKSUMS:
+  FooA: b5362bda15ca15dbac49d8e50def9239f29362a2
+
+PODFILE CHECKSUM: e75009e61c7fd9597ec88e66ab0e4092599e93be
+
+COCOAPODS: 1.9.3
